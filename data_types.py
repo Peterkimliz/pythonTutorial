@@ -1,4 +1,4 @@
-first_name ="John"
+first_name="John"
 last_name="Doe"
 age=23
 msg =" how would you like your potatoes to be cooked ?"
@@ -21,7 +21,7 @@ print(msg[0:])
 
 print(msg[0:5])
 
-print(msg[:-2])
+print(msg[-1:])
 
 
 
